@@ -1,2 +1,2 @@
-# Notebooks
-jupyter notebooks
+# Portfolio
+statistics and stuff
